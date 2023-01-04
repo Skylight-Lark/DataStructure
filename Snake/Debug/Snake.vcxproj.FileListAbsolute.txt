@@ -1,0 +1,2 @@
+C:\Users\zfy13\source\repos\Snake\Debug\Snake.exe
+D:\cpp项目\Snake\Snake\Debug\Snake.exe
